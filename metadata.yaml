@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '2670'
     url: http://www.gutenberg.org/2009/agents/2670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38791#The-Bushranger-s-Secret
 gutenberg_issued: '2012-02-08'
 gutenberg_type: Text
 identifiers:
